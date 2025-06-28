@@ -46,7 +46,6 @@ I'm passionate about cybersecurity, AI, and Quantum computing specially — alwa
 
 - **Internships**:
   - 🛠️ Summer Internship at Systel Motorola — covered CCNA basics & Pentesting basics
-  - 💬 Customer Service Representative at VXI Egypt — improved soft skills & workplace experience
 
 ---
 
