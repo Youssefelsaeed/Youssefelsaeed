@@ -1,56 +1,64 @@
-# 👋 Hi, I'm Youssef Mahmoud Elsaeed
+# 👋 Hi, I'm Youssef Mahmoud Elsaeed  
 
-🎓 **Computer Science Student | Cybersecurity & Quantum Realm Enthusiast**
+🎓 **Computer Science Student** | 🔒 Cybersecurity & ⚛ Quantum Realm Enthusiast  
 
-I'm an undergraduate student majoring in Computer Science at the Arab Academy for Science, Technology & Maritime Transport (AAST).  
-I'm passionate about cybersecurity, AI, and Quantum computing specially — always seeking to combine theory with real-world applications through hands-on projects, CTFs, and professional internships.
-
----
-
-## 🧠 Technical Skills & Expertise
-
-- **Cybersecurity**: Threat modeling (STRIDE), pentesting, CTFs, cryptography, networking basics (CCNA)
-- **Programming**: C, C++, Java, Python
-- **Web Development**: HTML & CSS
-- **Embedded Systems**: AVR Microcontroller (ATmega32), Embedded C, sensors, LCDs, actuators
-- **AI & ML**: Jupyter, computer vision, GANs, object detection
-- **Soft Skills**: Critical thinking, communication, problem-solving
+I’m an undergraduate at the **Arab Academy for Science, Technology & Maritime Transport (AAST)**, passionate about **cybersecurity, AI, and quantum computing**.  
+I combine theory with real-world applications through **CTFs, research, and internships** — aiming to push the boundaries of security into a proactive, adaptive future.  
 
 ---
 
-## 💼 Courses & Certifications
+## 🧠 Technical Skills  
 
-- 🛡️ Cybersecurity Course – Impact-Medix-BUE (2024)
-- 🔐 Advanced Cybersecurity Course – EncryptCore (2024)
-- 🔌 Standard Embedded Systems Diploma – GES (2024)
-- 🧠 AI & Machine Learning Boot Camp (Computer Vision) – Devision X (2023)
-- 🌐 Networking & Cybersecurity – Systel Motorola (2024)
-- 🇬🇧 English Language Certificate – British Council (2023)
+- **Cybersecurity**: Threat Modeling (STRIDE), Penetration Testing, Malware Analysis, Vulnerability Assessment, Cryptography, DFIR  
+- **Programming**: C, Embedded C, C++, Python, Bash, PowerShell  
+- **Security Tools**: Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark, Volatility, IDA Pro, Sysinternals Suite, ELK Stack, ScoutSuite, Prowler  
+- **Networking**: CCNA concepts (IPv4, Routing, VLANs)  
+- **Embedded Systems**: AVR (ATmega32), sensors, LCDs, actuators  
+- **AI/ML**: Computer Vision, GANs, Object Detection (Jupyter, Python)  
+- **Soft Skills**: Communication, Documentation, Problem-Solving, Critical Thinking  
 
 ---
 
-## 🛠️ Projects & Experience
+## 💼 Experience & Internships  
+  
+- **Cybersecurity Trainee (Super Hero Academy Program)** — NTI | Aug 2025 – Sept 2025  
+  - Hands-on with **Nessus**, **Metasploit**, **ELK Stack**, **Wireshark**, **GoPhish**  
+  - Performed **cloud audits (AWS)** using **ScoutSuite** & **Prowler**  
+  - Conducted **threat hunting & log analysis**  
+  - Ran **security awareness campaigns** (phishing simulations)  
+  - Learned **freelancing & client management skills**  
+- **Summer Intern (Networking & Cybersecurity)** — Systel Motorola | Jan 2024 – Feb 2024  
 
-- **Threat Modeling Project** – Used Microsoft TMT and STRIDE to identify vulnerabilities and propose mitigations.
-- **CTF Challenges** – Participated in certified Capture The Flag competitions.
-- **Embedded Systems Projects**:
-  - Student Management System using Data Structures
-  - Dual Mode Stopwatch using ATmega32 & 7-Segment Display
-  - Smart Home Automation with flame, LDR, and temp sensors
-  - Car Parking Sensor using ultrasonic sensors, LEDs, and buzzer
+---
 
-- **AI Projects (Computer Vision with Jupyter)**:
-  - Malaria Cell Classification
-  - Car Object Detection
-  - GAN-based Pokémon Image Generation
+## 🛠 Projects  
 
-- **Internships**:
-  - 🛠️ Summer Internship at Systel Motorola — covered CCNA basics & Pentesting basics
+- **Digital Forensics with Volatility** — RAM dump analysis, malicious activity detection  
+- **Internal Network Penetration Test (Saturn Security)** — Recon, exploitation, mitigation recommendations  
+- **PCAP Analyzer (NIDS Tool)** — Python + pyshark for automated malicious traffic detection  
+- **Malware Analysis (Jigsaw Ransomware)** — Static & dynamic analysis, IOC mapping, reverse engineering  
+- **Threat Modeling with STRIDE (Microsoft TMT)** — System vulnerabilities & mitigations  
+- **Embedded Systems** — Smart Home Automation | Car Parking Sensor | Stopwatch (ATmega32, sensors, LCDs)  
+- **AI/ML** — Malaria Cell Classification | Car Detection | GAN Pokémon Generator  
+
+---
+
+## 📜 Certifications & Courses  
+
+- **MCSA, CLS Learn** (Aug 2025 – Present)  
+- **Superhero Cyber Academy, NTI** (Aug 2025 – Sept 2025)  
+- **Advanced Cybersecurity, EncryptCore** (Oct 2024 – Dec 2024)  
+- **Standard Cybersecurity, Medix** (Aug 2024 – Oct 2024)  
+- **Embedded Systems Diploma, GES** (Jun 2024 – Oct 2024)  
+- **Networking & Cybersecurity, Systel Motorola** (Jan 2024)  
+- **AI & Machine Learning Bootcamp (Computer Vision), Devision X** (Aug 2023 – Oct 2023)
 
 ---
 
 ## 🏅 Achievements
 
+- **Researcher & Presenter** — *9th International Undergraduate Research Conference (IUGRC-9), MTC Cairo | July 2025*  
+  - Authored and presented **Project O.R.A.C.L.E.**: *A modular cybersecurity framework for post-quantum adaptive defense*  
 - Participated in **The CCIT Interdisciplinary Initiative 2024–2025** at AAST.
 - Completed several advanced courses in both cybersecurity and embedded systems.
 - Active participant in hands-on university and extracurricular projects.
@@ -66,7 +74,8 @@ I'm constantly expanding my skillset in cybersecurity, automation, and quantum c
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mahmoud-423525237/)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/ozark21)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/ozark21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elsaeed.youssef21@gmail.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dodger.troll852@gmail.com)
 
 ---
