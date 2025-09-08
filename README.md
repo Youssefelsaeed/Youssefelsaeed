@@ -60,7 +60,7 @@ I combine theory with real-world applications through **CTFs, research, and inte
 - **Researcher & Presenter** — *9th International Undergraduate Research Conference (IUGRC-9), MTC Cairo | July 2025*  
   - Authored and presented **Project O.R.A.C.L.E.**: *A modular cybersecurity framework for post-quantum adaptive defense*  
 - Participated in **The CCIT Interdisciplinary Initiative 2024–2025** at AAST.
-- Completed several advanced courses in both cybersecurity and embedded systems.
+- Participated in multiple CTF Challenges.
 - Active participant in hands-on university and extracurricular projects.
 
 ---
