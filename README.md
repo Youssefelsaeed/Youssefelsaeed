@@ -21,10 +21,16 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 ## 💼 Experience & Internships  
   
-- **Defensive Security Track Trainee (WE Innovate SOC Round 2 2025)** — WE Innovate, ZeroSploit | Sept 2025 — Oct 2025
-  - 
-- **Fortigate Administration Trainee (Fortinet Cyber Security Program)** — NTI | Sept 2025 — Oct 2025
-  - 
+- **Defensive Security Track Trainee (WE Innovate SOC Round 2 2025)** — WE Innovate, ZeroSploit | Sept 2025 — Oct 2025  
+  - Gained hands-on experience with **Active Directory** administration and security.  
+  - Learned **SIEM, SOAR, detection engineering, SOC engineering, and SOC analysis**.  
+  - Built automation with **n8n SOAR**, deployed **NGINX** on Ubuntu, and installed the **ELK Stack**.  
+  - Participated in **detection use case building** and SOC operational tasks.  
+- **Fortigate Administration Trainee (Fortinet Cyber Security Program)** — NTI | Sept 2025 — Oct 2025  
+  - Completed the **FortiGate 7.4 Administration** course.  
+  - Worked extensively with **Fortinet labs** covering firewall policies, NAT, VPNs, and UTM features.  
+  - Configured and managed **secure enterprise network environments** with FortiGate.  
+  - Strengthened real-world knowledge in **firewall management and security operations**. 
 - **Cybersecurity Trainee (Super Hero Academy Program)** — NTI | Aug 2025 – Sept 2025  
   - Hands-on with **Nessus**, **Metasploit**, **ELK Stack**, **Wireshark**, **GoPhish**  
   - Performed **cloud audits (AWS)** using **ScoutSuite** & **Prowler**  
