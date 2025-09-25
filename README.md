@@ -21,6 +21,10 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 ## 💼 Experience & Internships  
   
+- **Defensive Security Track Trainee (WE Innovate SOC Round 2 2025)** — WE Innovate, ZeroSploit | Sept 2025 — Oct 2025
+  - 
+- **Fortigate Administration Trainee (Fortinet Cyber Security Program)** — NTI | Sept 2025 — Oct 2025
+  - 
 - **Cybersecurity Trainee (Super Hero Academy Program)** — NTI | Aug 2025 – Sept 2025  
   - Hands-on with **Nessus**, **Metasploit**, **ELK Stack**, **Wireshark**, **GoPhish**  
   - Performed **cloud audits (AWS)** using **ScoutSuite** & **Prowler**  
@@ -45,7 +49,9 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 ## 📜 Certifications & Courses  
 
-- **MCSA, CLS Learn** (Aug 2025 – Present)  
+- **MCSA, CLS Learn** (Aug 2025 – Present)
+- **Defensive Security Training, WE Innovate** (Sept 2025 – Oct 2025)
+- **Fortinet Cybersecurity, NTI** (Sept 2025 – Oct 2025)
 - **Superhero Cyber Academy, NTI** (Aug 2025 – Sept 2025)  
 - **Advanced Cybersecurity, EncryptCore** (Oct 2024 – Dec 2024)  
 - **Standard Cybersecurity, Medix** (Aug 2024 – Oct 2024)  
