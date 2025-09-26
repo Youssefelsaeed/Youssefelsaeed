@@ -93,3 +93,4 @@ I'm constantly expanding my skillset in cybersecurity, automation, and quantum c
 ---
 
 🧩 **Check out my GitHub repositories** to see more of my work in action!
+Check out my full [**Cybersecurity Portfolio**](https://github.com/Youssefelsaeed/Cybersecurity-Portfolio) — a structured collection of my projects, reports, and labs
