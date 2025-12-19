@@ -43,6 +43,10 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 ## 🛠 Projects  
 
+-- **MISP Threat Intelligence Deployment** — Deployed and configured the MISP platform for cyber threat intelligence sharing, including event management, feeds integration
+- **AI-Based Intrusion Detection System for IoT** — Designed and implemented an AI-driven IDS for IoT environments
+- **FTP Server Security Hardening Lab** — Deployed and secured an FTP server, applying access control, authentication hardening
+- **Buffer Overflow Exploitation Lab** — Buffer overflow analysis and exploitation
 - **Digital Forensics with Volatility** — RAM dump analysis, malicious activity detection  
 - **Internal Network Penetration Test (Saturn Security)** — Recon, exploitation, mitigation recommendations  
 - **PCAP Analyzer (NIDS Tool)** — Python + pyshark for automated malicious traffic detection  
