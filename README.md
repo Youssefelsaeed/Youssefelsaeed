@@ -43,6 +43,7 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 ## 🛠 Projects  
 
+- **Metasploitable 2 Penetration Test** — Gray-box Heavy penetration test - utilizing Nmap, Nessus, and Metasploit - identified, verified, and documented 30 confirmed exploits across Network Services and Web Applications
 - **MISP Threat Intelligence Deployment** — Deployed and configured the MISP platform for cyber threat intelligence sharing, including event management, feeds integration
 - **AI-Based Intrusion Detection System for IoT** — Designed and implemented an AI-driven IDS for IoT environments
 - **FTP Server Security Hardening Lab** — Deployed and secured an FTP server, applying access control, authentication hardening
