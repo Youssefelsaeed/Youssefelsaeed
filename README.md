@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** | 🔒 Cybersecurity & ⚛ Quantum Realm Enthusiast  
 
-I’m an undergraduate at the **Arab Academy for Science, Technology & Maritime Transport (AAST)**, passionate about **cybersecurity, AI, and quantum computing**.  
+An undergraduate at the **Arab Academy for Science, Technology & Maritime Transport (AAST)**, passionate about **cybersecurity, AI, and quantum computing**.  
 I combine theory with real-world applications through **CTFs, research, and internships** — aiming to push the boundaries of security into a proactive, adaptive future.  
 
 ---
@@ -60,7 +60,8 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 ## 📜 Certifications & Courses  
 
-- **MCSA, CLS Learn** (Aug 2025 – Present)
+- **CCNA, CLS Learn** (Feb 2026 – Present)
+- **MCSA, CLS Learn** (Aug 2025 – Feb 2026)
 - **Defensive Security Training, WE Innovate** (Sept 2025 – Oct 2025)
 - **Fortinet Cybersecurity, NTI** (Sept 2025 – Oct 2025)
 - **Superhero Cyber Academy, NTI** (Aug 2025 – Sept 2025)  
