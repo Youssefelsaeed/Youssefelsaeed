@@ -60,7 +60,7 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 ## 📜 Certifications & Courses  
 
-- **CCNA, CLS Learn** (Feb 2026 – Present)
+- **CCNA, CLS Learn** (Feb 2026 – Apr 2026)
 - **MCSA, CLS Learn** (Aug 2025 – Feb 2026)
 - **Defensive Security Training, WE Innovate** (Sept 2025 – Oct 2025)
 - **Fortinet Cybersecurity, NTI** (Sept 2025 – Oct 2025)
