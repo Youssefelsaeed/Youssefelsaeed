@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Youssef Mahmoud Elsaeed  
 
-🎓 **Computer Science Student** | 🔒 Cybersecurity & ⚛ Quantum Realm Enthusiast  
+🎓 **Computer Science Graduate** | 🔒 Cybersecurity, Ai &  Quantum Realm Enthusiast  
 
-An undergraduate at the **Arab Academy for Science, Technology & Maritime Transport (AAST)**, passionate about **cybersecurity, AI, and quantum computing**.  
+A Fresh Graduate from the **Arab Academy for Science, Technology & Maritime Transport (AAST)**, passionate about **cybersecurity, AI, and quantum computing**.  
 I combine theory with real-world applications through **CTFs, research, and internships** — aiming to push the boundaries of security into a proactive, adaptive future.  
 
 ---
