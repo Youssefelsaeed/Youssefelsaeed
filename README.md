@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef Mahmoud Elsaeed  
 
-🎓 **Computer Science Graduate** | 🔒 Cybersecurity, Ai &  Quantum Realm Enthusiast  
+🎓 **Computer Science (Cybersecurity Major) Graduate** | 🔒 Cybersecurity, Ai &  Quantum Realm Enthusiast  
 
 A Fresh Graduate from the **Arab Academy for Science, Technology & Maritime Transport (AAST)**, passionate about **cybersecurity, AI, and quantum computing**.  
 I combine theory with real-world applications through **CTFs, research, and internships** — aiming to push the boundaries of security into a proactive, adaptive future.  
@@ -11,7 +11,7 @@ I combine theory with real-world applications through **CTFs, research, and inte
 
 - **Cybersecurity**: Threat Modeling (STRIDE), Penetration Testing, Malware Analysis, Vulnerability Assessment, Cryptography, DFIR  
 - **Programming**: C, Embedded C, C++, Python, Bash, PowerShell  
-- **Security Tools**: Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark, Volatility, IDA Pro, Sysinternals Suite, ELK Stack, ScoutSuite, Prowler  
+- **Security Tools**: Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark, Volatility, IDA Pro, Sysinternals Suite, ELK Stack, Splunk, ScoutSuite, Prowler  
 - **Networking**: CCNA concepts (IPv4, Routing, VLANs)  
 - **Embedded Systems**: AVR (ATmega32), sensors, LCDs, actuators  
 - **AI/ML**: Computer Vision, GANs, Object Detection (Jupyter, Python)  
