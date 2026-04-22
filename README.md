@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Youssef Mahmoud Elsaeed  
+# 👋 I'm Youssef Mahmoud Elsaeed  
 
 🎓 **Computer Science (Cybersecurity Major) Graduate** | 🔒 Cybersecurity, Ai &  Quantum Realm Enthusiast  
 
